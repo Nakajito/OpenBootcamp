@@ -1,3 +1,3 @@
-saludo = "“Hola mundo!"
+saludo = "Hola mundo!"
 
 print(saludo)
